@@ -22,9 +22,9 @@
 -   严格控制规则的体积，毕竟这是每次数据请求都会被运行一次的东西。
 -   使用开源的力量，逐渐成为 SR 上最好用的规则！
 
-**规则地址：**<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_adb.conf>
+**规则地址：**<https://raw.githubusercontent.com/xpol/Shadowrocket-ADBlock-Rules/master/xpol.conf>
 
-![扫码下载](https://cloud.githubusercontent.com/assets/12909077/17640759/d7347da8-6139-11e6-8cfb-bd8d1800343c.png)
+![扫码下载](srr-xpol.png)
 
 ## Related
 
